@@ -1,0 +1,27 @@
+{
+  "name": "mqtt-vs-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanguslee/MQTT-vs-HTTP.git"
+  },
+  "author": "khanguslee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanguslee/MQTT-vs-HTTP/issues"
+  },
+  "homepage": "https://github.com/khanguslee/MQTT-vs-HTTP#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  },
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
